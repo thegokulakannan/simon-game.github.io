@@ -15,7 +15,6 @@ The Simon Game is a timeless electronic memory game that challenges players to r
   - Increases the sequence length for each successful round.
   - Interactive feedback for user inputs.
 - Sounds and visual effects to enhance the gaming experience.
-- Difficulty levels to accommodate different skill levels.
 
 ## Demo
 
