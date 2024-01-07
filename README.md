@@ -18,9 +18,9 @@ The Simon Game is a timeless electronic memory game that challenges players to r
 
 ## Demo
 
-You can access the live demo of the Simon Game Challenge [here](#insert-your-demo-link-here).
+You can access the live demo of the Simon Game Challenge [here]( https://thegokulakannan.github.io/simon-game.github.io/).
 
-![Simon Game Demo] https://thegokulakannan.github.io/simon-game.github.io/
+
 
 
 
